@@ -10,6 +10,7 @@ SHC-SSL and SHC-FL feature selection algorithms for single cell clustering
 
 We have found that SHC-SSL outperforms both SHC and Seurat in clustering rare cell populations in both simulations and Tabula Sapiens (TS) human single cell transcriptomics datasets 
 
-![image](https://github.com/user-attachments/assets/90e58115-9316-4f55-94b3-0c4f00c3df60)
+![image](https://github.com/user-attachments/assets/e588656e-b782-40e7-acba-02c5b2b69a07)
+
 
 
