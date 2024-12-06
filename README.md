@@ -14,5 +14,5 @@ We have found that SHC-SSL outperforms both SHC and Seurat in clustering rare ce
 
 Links to files - 
 
-Slides - 
+Slides - https://github.com/wguo3773/recombine-shc-ssl-fl/blob/main/RECOMBINE%20ppt.pptx 
 Code (R Markdown) - 
